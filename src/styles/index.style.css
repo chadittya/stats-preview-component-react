@@ -11,10 +11,11 @@
     color: hsl(0, 0%, 100%);
   }
   p {
+    font-family: "Inter", sans-serif;
     color: hsla(0, 0%, 100%, 0.75);
   }
   h1,
-  h3 {
-    color: hsla(0, 0%, 100%, 0.6);
+  h2 {
+    color: hsl(0, 0%, 100%);
   }
 }

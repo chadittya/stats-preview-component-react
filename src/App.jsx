@@ -1,3 +1,4 @@
+import Footer from "./components/Footer";
 import StatsPreview from "./components/StatsPreview";
 
 function App() {
@@ -6,7 +7,9 @@ function App() {
       <main>
         <StatsPreview />
       </main>
-      <footer></footer>
+      <footer>
+        <Footer />
+      </footer>
     </div>
   );
 }
